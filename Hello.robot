@@ -26,7 +26,7 @@ Input of two
 Other Input
 	[Arguments]			${three}
 	Get Response		${three}
-	Status Should Be	COMMENT!
+	Status Should Be	NO COMMENT!
 	
 	
 	
